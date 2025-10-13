@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
 
 <p align="center">
-  <img src="./logo2.png" height="200px" />
+  <img src="./t1-esports.gif" height="200px" />
 </p>
 
-<h1 align="center">🧑🏻‍💻 TaeKwan Kim | AI & Education Specialist 🧩</h1>
-<h3 align="center"><i>"U1대학교 AI소프트웨어학과 김태관"</i></h3>
+<h1 align="center">🧑🏻‍💻 Jinho JEONG | G2(English, Chinese) & Big Date management🧩</h1>
+<h3 align="center"><i>"강서대학교 G2빅데이터경영학과 정진호"</i></h3>
 
 <p align="center">
   <!-- Animated typing SVG -->
@@ -13,22 +13,20 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KimTeakwan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/KimTeakwan?label=Followers&style=social" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/KimTeakwan?label=Stars&style=social" alt="GitHub stars"/>
+  <img src="https://komarev.com/ghpvc/?username=jinho3085&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/jinho3085?label=Followers&style=social" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/jinho3085?label=Stars&style=social" alt="GitHub stars"/>
 </p>
 
 ---
 
 ## 💖 About Me
 
-U1대학교에 다니고 있는 19학번 AI소프트웨어학과 김태관입니다. <br/>
+강서대학교에 다니고 있는 19학번 G2빅데이터경영학과 정진호입니다. <br/>
 여기에 제가 공부하고있는 모든 내용과 결과물들을 업로드 할 생각입니다.
 
 - 나이: 2000년생
-- 좋아하는 음식: ☕️커피
-- 취미: 🏋🏻‍♂️헬스  
-- 특징: 커피없으면 코딩 못함
+- 취미: 게임 
 
 ## 🛠️ Tech Stack (Reorganized)
 
@@ -69,20 +67,18 @@ U1대학교에 다니고 있는 19학번 AI소프트웨어학과 김태관입니
 
 ---
 
-## 🔥 Activity Graph (Animated)
-[![TaeKwan Kim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KimTeakwan&theme=radical&bg_color=ffffff&color=6439F7&line=bd93f9&point=f8f8f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/KimTeaKwan/KimTeaKwan/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/jinho3085/jinho3085/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🔗 Links
 ---
 
 ## 📬 Contact
-📧 **Email**: xorhks4552@naver.com
+📧 **Email**: jinho3085@naver.com
 
 > 더 나은 기술 교육을 고민하는 모든 분과 협업하고 싶습니다.  
 > **Feel free to connect!**
@@ -93,4 +89,4 @@ U1대학교에 다니고 있는 19학번 AI소프트웨어학과 김태관입니
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </p>
 
-© 2025 **TaeKwan Kim** | Powered by Whisper, GPT, and lifelong curiosity.
+© 2025 **Jinho JEONG** | Powered by Whisper, GPT, and lifelong curiosity.
