@@ -2,11 +2,14 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 매일 자정마다 실행 (UTC 기준)
-  workflow_dispatch:      # 수동 실행 가능
+    - cron: "0 0 * * *" 
+  workflow_dispatch:     
   push:
     branches:
       - main
+      
+permissions:
+  contents: write
 
 jobs:
   build:
