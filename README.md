@@ -43,10 +43,6 @@
 <a href="https://nodejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50"/></a>
 </div>
 
-### 🧠 Data / AI
-<div align="center">
-</div>
-
 ### 🗄 Databases
 <div align="center">
 <a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50"/></a>
@@ -64,11 +60,6 @@
 <a href="https://www.adobe.com/products/photoshop-lightroom.html"><img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" height="50"/></a>
 <a href="https://www.adobe.com/in/products/aftereffects.html"><img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" height="50"/></a>
 </div>
-
----
-
-
----
 
 ---
 
