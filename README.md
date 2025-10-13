@@ -4,7 +4,7 @@
   <img src="./t1-esports.gif" height="200px" />
 </p>
 
-<h1 align="center">🧑🏻‍💻 Jinho JEONG | <br> G2(English, Chinese) & Big Date management 📚</h1>
+<h1 align="center">🧑🏻‍💻 Jinho JEONG <br> G2(English, Chinese) & Big Date management 📚</h1>
 <h3 align="center"><i>"강서대학교 G2빅데이터경영학과 정진호"</i></h3>
 
 <p align="center">
