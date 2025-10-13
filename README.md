@@ -70,8 +70,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/jinho3085/jinho3085/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🔗 Links
